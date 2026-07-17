@@ -1,0 +1,1 @@
+{"repos": [{"repoId": "speechbrain/spkrec-ecapa-voxceleb", "repoType": "model", "commitHash": "0f99f2d0ebe89ac095bcc5903c4dd8f72b367286", "filePaths": ["hyperparams.yaml", "mean_var_norm_emb.ckpt", "label_encoder.txt", "embedding_model.ckpt", "classifier.ckpt"]}]}
